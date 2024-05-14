@@ -1,0 +1,21 @@
+tensorflow
+----------
+Version: 2.11.0
+Summary: TensorFlow is an open source machine learning framework for everyone.
+Home-page: https://www.tensorflow.org/
+Author: Google Inc.
+Author-email: packages@tensorflow.org
+License: Apache 2.0
+Requires: tensorflow-intel
+Required-by:
+
+keras
+----------
+Version: 2.11.0
+Summary: Deep learning for humans.
+Home-page: https://keras.io/
+Author: Keras team
+Author-email: keras-users@googlegroups.com
+License: Apache 2.0
+Requires:
+Required-by: tensorflow-intel
